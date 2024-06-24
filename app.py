@@ -32,7 +32,7 @@ def extract_images_from_page(page):
     return images
 
 description = '''
-A tool for extracting image(s) from PDF file. 
+*Making the tedious task of manual image extraction a thing of the past!!*
 '''
 
 # title
